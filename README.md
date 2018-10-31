@@ -1,2 +1,2 @@
 # vue-use-hooks
-Awesome React Hooks.
+Awesome Vue Hooks.
